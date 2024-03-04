@@ -4,8 +4,8 @@
 The MERN Food Ordering App is a full-stack web application designed to provide users with a seamless experience for ordering food from various restaurants. It incorporates modern technologies and best practices to offer features such as user authentication, restaurant management, cart management, live order tracking, and more.
 
 ## Repositories
-Frontend Repository: https://www.github.com/AmolDhawle/mern-food-ordering-app-frontend
-Backend Repository: https://www.github.com/AmolDhawle/mern-food-ordering-app-backend
+-> Frontend Repository: https://www.github.com/AmolDhawle/mern-food-ordering-app-frontend
+-> Backend Repository: https://www.github.com/AmolDhawle/mern-food-ordering-app-backend
 
 ## Key Features
 1. User Authentication and Registration: Users can sign up for an account, log in, and manage their profiles. This ensures a personalized experience and allows users to track their order history.
