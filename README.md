@@ -10,10 +10,15 @@ Backend Repository: https://www.github.com/AmolDhawle/mern-food-ordering-app-bac
 
 ## Key Features
 1. User Authentication and Registration: Users can sign up for an account, log in, and manage their profiles. This ensures a personalized experience and allows users to track their order history.
-2.  Search, Sort, Filter, and Pagination: Users can easily browse through a wide range of restaurants and food items using advanced search, sorting, filtering, and pagination options. This enhances the user experience by making it easier to find desired items.
+   
+2. Search, Sort, Filter, and Pagination: Users can easily browse through a wide range of restaurants and food items using advanced search, sorting, filtering, and pagination options. This enhances the user experience by making it easier to find desired items.
+   
 3. Restaurant Management: Restaurant owners have the ability to manage their restaurant profiles, including updating information and uploading images. This allows restaurants to showcase their offerings effectively.
+
 4. Cart Management and Stripe Checkout: Users can add items to their cart, review their selections, and proceed to checkout using the Stripe payment gateway for secure transactions. This feature ensures a smooth ordering process for customers.
+   
 5. Live Order Status Tracking: Users can track the status of their orders in real-time, from placement to delivery. This transparency enhances trust and satisfaction among users.
+    
 6. Order Status Management for Restaurant Owners: Restaurant owners can manage the status of incoming orders, including confirming, preparing, and completing orders. This feature streamlines the order fulfillment process and improves efficiency.
    
 ## Tech Stack
