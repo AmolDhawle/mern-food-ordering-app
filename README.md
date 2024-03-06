@@ -29,5 +29,14 @@ Backend Repository: https://www.github.com/AmolDhawle/mern-food-ordering-app-bac
 3. Database: MongoDB
 4. External Services: Auth0 (for authentication), Stripe (for payments), Cloudinary (for image storage), GitHub (for version control), Render (for deployment)
 
+## Getting Started
+To fully explore the MERN Food Ordering App, we recommend creating two accounts:
+
+1. Restaurant Owner Account: Create an account as a restaurant owner to experience the restaurant management features. You'll be able to create and manage your restaurant profile, upload images, and track incoming orders.
+
+2. Customer Account: Create an account as a customer to browse restaurants, search for food items, and place orders. With a customer account, you can experience the seamless ordering process and track your orders in real-time.
+
+Please note that you can use the same email address for both accounts, but you'll need to sign up separately for each role.
+
 ## Conclusion
 The MERN Food Ordering App exemplifies my skills in full-stack development and my commitment to delivering high-quality, impactful projects. With its intuitive user interface, advanced functionality, and seamless integration of modern technologies, this project serves as a compelling showcase of my abilities to hiring managers seeking a versatile and skilled developer.
